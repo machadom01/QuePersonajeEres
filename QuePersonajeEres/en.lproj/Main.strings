@@ -1,0 +1,27 @@
+
+/* Class = "UIButton"; configuration.title = "Continuar"; ObjectID = "NKZ-3f-58j"; */
+"NKZ-3f-58j.configuration.title" = "Continuar";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "NKZ-3f-58j"; */
+"NKZ-3f-58j.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "¿Qué personaje eres?"; ObjectID = "QvY-o1-kB2"; */
+"QvY-o1-kB2.text" = "¿Qué personaje eres?";
+
+/* Class = "UIButton"; configuration.title = "Sí"; ObjectID = "Wa9-a5-qY6"; */
+"Wa9-a5-qY6.configuration.title" = "Sí";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Wa9-a5-qY6"; */
+"Wa9-a5-qY6.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "No"; ObjectID = "Xsf-k8-Edo"; */
+"Xsf-k8-Edo.configuration.title" = "No";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Xsf-k8-Edo"; */
+"Xsf-k8-Edo.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Tu personaje..."; ObjectID = "ZSq-za-aDx"; */
+"ZSq-za-aDx.text" = "Tu personaje...";
+
+/* Class = "UILabel"; text = "Elige un personaje (Chavo, Ramón, Florinda, Jirafales, Barriga, Clotilde) y responde a las 5 preguntas."; ObjectID = "q1H-hY-wWW"; */
+"q1H-hY-wWW.text" = "Elige un personaje (Chavo, Ramón, Florinda, Jirafales, Barriga, Clotilde) y responde a las 5 preguntas.";

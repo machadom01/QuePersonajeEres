@@ -1,0 +1,61 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "pregunta1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Vive en la vecidad?"
+          }
+        }
+      }
+    },
+    "pregunta2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Es hombre?"
+          }
+        }
+      }
+    },
+    "pregunta3" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Usa sombrero/gorro/pañuelo?"
+          }
+        }
+      }
+    },
+    "pregunta4" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Es delgado(a)?"
+          }
+        }
+      }
+    },
+    "pregunta5" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Su casa es un barril?"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
